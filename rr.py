@@ -13,4 +13,3 @@ def f_print(aa):
 
 
 f_print(aa="nazwa")
-
