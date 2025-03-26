@@ -24,3 +24,7 @@ def f_print(aa):
 
 
 f_print(aa="nazwa")
+
+test(22)
+test(33)
+test(44)
